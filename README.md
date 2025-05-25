@@ -26,7 +26,7 @@ TopoPoint identify the endpoint deviation issue in existing topology reasoning m
 
 Updates
 --- 
-- [2025.5.23] TopoPoint paper is released at [arXiv](https://arxiv.org/abs/2405.14747)
+- [2025.5.26] TopoPoint paper is released at [arXiv](https://arxiv.org/abs/2405.14747)
 ## Table of Contents
 - [TopoPoint: An Interpretable Pipeline for Lane Topology Reasoning on Driving Scenes](#TopoPoint-an-interpretable-pipeline-for-lane-topology-reasoning-on-driving-scenes)
   - [Table of Contents](#table-of-contents)
