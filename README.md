@@ -1,6 +1,6 @@
 <div align="center">
 
-# TopoPoint: TopoPoint: Enhance Topology Reasoning via Endpoint Detection in Autonomous Driving
+# TopoPoint: Enhance Topology Reasoning via Endpoint Detection in Autonomous Driving
 
 
 [![arxiv](https://img.shields.io/badge/arxiv-2405.17771-479ee2.svg)](https://arxiv.org/pdf/2505.17771)
