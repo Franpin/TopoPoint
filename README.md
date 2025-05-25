@@ -25,7 +25,7 @@ TopoPoint identify the endpoint deviation issue in existing topology reasoning m
 
 Updates
 --- 
-- [2025.5.26] TopoPoint paper is released at [arXiv](https://arxiv.org/abs/2405.14747)
+- [2025.5.26] TopoPoint paper is released at [arXiv](https://arxiv.org/abs/2405.14747).
 ## Table of Contents
 - [TopoPoint: Enhance Topology Reasoning via Endpoint Detection in Autonomous Driving](#topopoint-enhance-topology-reasoning-via-endpoint-detection-in-autonomous-driving)
   - [Table of Contents](#table-of-contents)
@@ -44,7 +44,7 @@ Updates
 > The result is based on the updated `v2.1.0` OpenLane-V2 devkit and metrics.
 ### Results on OpenLane-V2 subset-A val
 
-We provide results on **[Openlane-V2](https://github.com/OpenDriveLab/OpenLane-V2) subset-A val** set.
+We provide results on **[OpenLane-V2](https://github.com/OpenDriveLab/OpenLane-V2) subset-A val** set.
 
 |    Method    | Backbone | Epoch | DET<sub>l</sub> | DET<sub>t</sub> | TOP<sub>ll</sub> | TOP<sub>lt</sub> |   OLS    | DET<sub>p</sub>      |
 | :----------: |----| :---: | :-------------: | :--------------: | :-------------: | :--------------: | :------: | :------: |
