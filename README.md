@@ -56,7 +56,7 @@ We provide results on **[Openlane-V2](https://github.com/OpenDriveLab/OpenLane-V
 | TopoMLP  | ResNet-50 |  24   |   28.3     |    49.5     |     21.6      |    26.9     | 44.1 | 43.4 |
 | TopoLogic | ResNet-50 | 24  | 29.9 |47.2 | 23.9  | 25.4  | 44.1 | 45.2 |
 | TopoFormer  | ResNet-50 |  24   |   **34.7**     |    48.2     |     24.1      |    29.5    | 46.3 | - |
-| TopoPoint | ResNet-50 | 24  | 31.4 | 55.3  | 28.7 | 30.0 | 48.8 | 52.6 |
+| TopoPoint | ResNet-50 | 24  | 31.4 | **55.3**  | **28.7** | **30.0** | **48.8** | **52.6** |
 
 
 
@@ -135,10 +135,7 @@ If this work is helpful for your research, please consider citing the following 
  year = {2024}
 }
 
-
 ```
-
-
 
 ## Related resources
 
