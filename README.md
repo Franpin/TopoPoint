@@ -20,15 +20,14 @@ TL;DR
 This repository contains the source code of **TopoPoint**, [Enhance Topology Reasoning
  via Endpoint Detection in Autonomous Driving](https://arxiv.org/pdf/2505.17771).
 
-TopoPoint identify the endpoint deviation issue in existing topology reasoning methods. To tackle this, TopoPoint introduces explicit endpoint detection and strengthens
- point-lane interaction through **Point-Lane Merge Self-Attention** and  **Point-Lane Graph Convolutional Network**, and further design **Point-Lane Geometry Matching** algorithm to refine lane endpoints.
+TopoPoint identify the endpoint deviation issue in existing topology reasoning methods. To tackle this, TopoPoint introduces explicit endpoint detection and strengthens point-lane interaction through **Point-Lane Merge Self-Attention** and  **Point-Lane Graph Convolutional Network**, and further design **Point-Lane Geometry Matching** algorithm to refine lane endpoints.
 
 
 Updates
 --- 
 - [2025.5.26] TopoPoint paper is released at [arXiv](https://arxiv.org/abs/2405.14747)
 ## Table of Contents
-- [TopoPoint: An Interpretable Pipeline for Lane Topology Reasoning on Driving Scenes](#TopoPoint-an-interpretable-pipeline-for-lane-topology-reasoning-on-driving-scenes)
+- [TopoPoint: Enhance Topology Reasoning via Endpoint Detection in Autonomous Driving](#topopoint-enhance-topology-reasoning-via-endpoint-detection-in-autonomous-driving)
   - [Table of Contents](#table-of-contents)
   - [Main Results](#main-results)
     - [Results on OpenLane-V2 subset-A val](#results-on-openlane-v2-subset-a-val)
