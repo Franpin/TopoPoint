@@ -25,6 +25,7 @@ TopoPoint identify the endpoint deviation issue in existing topology reasoning m
 
 Updates
 --- 
+- [2025.9.19] TopoPoint is accepted by NeurIPS 2025.
 - [2025.5.26] TopoPoint paper is released at [arXiv](https://arxiv.org/abs/2405.14747).
 ## Table of Contents
 - [TopoPoint: Enhance Topology Reasoning via Endpoint Detection in Autonomous Driving](#topopoint-enhance-topology-reasoning-via-endpoint-detection-in-autonomous-driving)
